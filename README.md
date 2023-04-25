@@ -1,4 +1,4 @@
-## Hello, me chamo Vieira, e Seja Bem-Vindo ao meu Mundo! 💙
+## Hello, me chamo Vieira, e Seja Bem-Vindo! 💙
 
 <br>
 
