@@ -8,8 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraSantosz&layout=compact&langs_count=7&theme=transparent"/>
   <br/>
 </div>
-
- <br> 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Html" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
