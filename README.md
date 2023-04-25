@@ -2,7 +2,7 @@
 
 **Sobre mim:**
 
-- 💼 Suporte Service / Help Desk de Infraestrutura pela [YKP](https://www.ykp.com.br/)
+- 💼 Suporte Service / Help Desk de Infraestrutura pela [Ykp](https://www.ykp.com.br/)
 -  🖥 Esudante de Análise e Desenvolvimento de Sistema pelo Instituto Federal de São Paulo (IFSP)
 
 
