@@ -1,5 +1,10 @@
 ## Helloo, me chamo Vieira, e Seja Bem-Vindo! 💙
 
+**Sobre mim:**
+
+- 💼 Suporte Service / Help Desk de Infraestrutura pela [YKP](https://www.ykp.com.br/)
+-  🖥 Esudante de Análise e Desenvolvimento de Sistema pelo Instituto Federal de São Paulo (IFSP)
+
 <br>
 
 <div>
