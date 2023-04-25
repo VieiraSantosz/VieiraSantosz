@@ -1,13 +1,8 @@
-### Hello! Eu sou Wesley Vieira, mas pode me chamar de Vieira! 👋
+## Hello! Eu sou Wesley Vieira, mas pode me chamar de Vieira! 
 
-- 🔭 Trabalho com Infraestrutura
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ele / dele
-
-
-<div align="center">
+<div>
   <a href="https://github.com/VieiraSantosz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraSantosz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraSantosz&show_icons=true&theme=transparent&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraSantosz&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
