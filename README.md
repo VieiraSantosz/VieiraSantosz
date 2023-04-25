@@ -19,8 +19,8 @@
 
 <div>
   <a href="https://github.com/VieiraSantosz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraSantosz&show_icons=true&theme=swift&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraSantosz&layout=compact&langs_count=7&theme=swift"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraSantosz&show_icons=true&theme=vue&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraSantosz&layout=compact&langs_count=7&theme=vue"/>
 </div>
   
   <br/>
@@ -29,10 +29,10 @@
 **Repositórios em Destaque:**
 
 <a href="https://github.com/VieiraSantosz/ProjetoKiBeleza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoKiBeleza&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoKiBeleza&theme=vue" />
 </a>
 <a href="https://github.com/VieiraSantosz/ProjetoRsFotografia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoRsFotografia&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoRsFotografia&theme=vue" />
 </a>
   
   
