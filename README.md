@@ -1,4 +1,4 @@
-## Helloo, me chamo Vieira, e Seja Bem-Vindo ao mue perfil do GitHub! 💙
+## Helloo, me chamo Vieira, e Seja Bem-Vindo ao meu perfil do GitHub! 💙
 
 **Sobre mim:**
 
