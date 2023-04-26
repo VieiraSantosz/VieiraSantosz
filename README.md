@@ -10,8 +10,8 @@
   <img align="center" alt="Html" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Css" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Css" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="JavaScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="JavaScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sql" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
 </div>
 
