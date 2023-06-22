@@ -29,7 +29,7 @@
 **Repositórios em Destaque:**
 
 <a href="https://github.com/VieiraSantosz/ProjetoKiBeleza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoKiBeleza&theme=gotham&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoKiBeleza&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/VieiraSantosz/ProjetoRsFotografia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoRsFotografia&theme=gotham&hide_border=true" />
