@@ -2,7 +2,7 @@
 
 **Sobre mim:**
 
-- 💼 Suporte Service / Help Desk de Segurança pela [NETCONN]([https://www.ykp.com.br/](https://netconn.com.br/))
+- 💼 Suporte Service / Help Desk de Segurança pela [NETCONN](https://netconn.com.br/)
 -  🖥 Esudante de Análise e Desenvolvimento de Sistema pelo Instituto Federal de São Paulo [(IFSP)](https://spo.ifsp.edu.br/)
 
 
