@@ -28,12 +28,10 @@
 
 **Repositórios em Destaque:**
 
-<a href="https://github.com/VieiraSantosz/ProjetoKiBeleza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoKiBeleza&theme=algolia&hide_border=true" />
+<a href="https://github.com/VieiraSantosz/ProjetoAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoAPI&theme=algolia&hide_border=true" />
 </a>
-<a href="https://github.com/VieiraSantosz/ProjetoRsFotografia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoRsFotografia&theme=algolia&hide_border=true" />
-</a>
+
   
   
 ##
