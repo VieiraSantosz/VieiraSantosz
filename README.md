@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://github.com/VieiraSantosz/BeyondTrust-PasswordSafe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=ProjetoAPI&theme=algolia&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraSantosz&repo=BeyondTrust-PasswordSafe&theme=algolia&hide_border=true" />
 </a>
 
 ##
