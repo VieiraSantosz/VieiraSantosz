@@ -4,7 +4,7 @@
 
 - 🎓 Graduado em Técnico em Informática pelo [SENAC](https://www.sp.senac.br/)
 - 🖥 Esudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo [(IFSP)](https://spo.ifsp.edu.br/)
-- 👨🏻‍💻 Analista de Segurança da Informação Jr pela [NETCONN](https://netconn.com.br/)
+- 💼 Analista de Segurança da Informação Jr pela [NETCONN](https://netconn.com.br/)
 
 
 <div style="display: inline_block"><br>
