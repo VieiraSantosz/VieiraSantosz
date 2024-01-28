@@ -14,7 +14,7 @@
   <img align="center" alt="Java" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="JavaScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sql" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Sql" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />        
+  <img align="center" alt="Sql" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">        
 </div>
 
 <br>
