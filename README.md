@@ -1,4 +1,4 @@
-## Hello, me chamo W.Vieira, e Seja Bem-Vindo ao meu perfil do GitHub! 💙
+## Hello, me chamo Wesley Vieira, e Seja Bem-Vindo ao meu perfil do GitHub! 💙
 
 **Sobre mim:**
 
