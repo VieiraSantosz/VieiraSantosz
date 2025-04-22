@@ -2,7 +2,7 @@
 
 **Sobre mim:**
 
-- 🎓 Graduado em Técnico em Informática pelo [SENAC](https://www.sp.senac.br/)
+- 🎓 Graduado em Técnico em Informática pelo [(SENAC)](https://www.sp.senac.br/)
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo [(IFSP)](https://spo.ifsp.edu.br/)
 
 <div style="display: inline_block"><br>
