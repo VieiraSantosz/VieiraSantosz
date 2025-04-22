@@ -3,7 +3,7 @@
 **Sobre mim:**
 
 - 🎓 Graduado em Técnico em Informática pelo [SENAC](https://www.sp.senac.br/)
-- 🖥 Esudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo [(IFSP)](https://spo.ifsp.edu.br/)
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo [(IFSP)](https://spo.ifsp.edu.br/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Html" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
